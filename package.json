@@ -1,0 +1,24 @@
+{
+   "name": "bobboro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateRss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himupsi/bobboro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himupsi/bobboro/issues"
+  },
+  "homepage": "https://github.com/himupsi/bobboro#readme",
+  "dependencies": {
+    "instagram-scraping": "^1.0.17",
+    "puppeteer": "^18.0.5",
+    "selenium-webdriver": "^4.5.0"
+  }
+}
